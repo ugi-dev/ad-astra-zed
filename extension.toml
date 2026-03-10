@@ -1,0 +1,7 @@
+id = "ad-astra-theme"
+name = "Ad Astra"
+schema_version = 1
+version = "1.0.0"
+authors = ["ugi-dev <hey@ugi.dev>"]
+description = "Dark and light themes for Zed with vibrant cyan and pink accents"
+repository = "https://github.com/ugi-dev/ad-astra-zed"
