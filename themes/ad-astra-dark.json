@@ -286,7 +286,7 @@
 						"color": "#FFFFFF"
 					},
 					"property": {
-						"color": "#FBADFF"
+						"color": "#FFFFFF"
 					},
 					"punctuation": {
 						"color": "#A0A0A0"
@@ -329,7 +329,7 @@
 						"font_weight": 700
 					},
 					"type": {
-						"color": "#FFFFFF"
+						"color": "#FBADFF"
 					},
 					"variable": {
 						"color": "#FFFFFF"

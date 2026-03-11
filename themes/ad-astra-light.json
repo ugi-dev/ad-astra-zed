@@ -286,7 +286,7 @@
 						"color": "#1C2230"
 					},
 					"property": {
-						"color": "#8F4AB8"
+						"color": "#1C2230"
 					},
 					"punctuation": {
 						"color": "#5B6883"
@@ -329,7 +329,7 @@
 						"font_weight": 700
 					},
 					"type": {
-						"color": "#1C2230"
+						"color": "#8F4AB8"
 					},
 					"variable": {
 						"color": "#1A1E29"
