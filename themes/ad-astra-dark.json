@@ -95,7 +95,7 @@
         "editor.background": "#111111",
         "editor.gutter.background": "#111111",
         "editor.subheader.background": "#161616",
-                "editor.active_line.background": "#FFFFFF0A",
+        "editor.active_line.background": "#FFFFFF0A",
         "editor.highlighted_line.background": null,
         "editor.line_number": "#505050",
         "editor.active_line_number": "#FBADFF",
@@ -218,10 +218,10 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#FBADFF"
+            "color": "#A0A0A0"
           },
           "boolean": {
-            "color": "#FBADFF"
+            "color": "#FFFFFF"
           },
           "comment": {
             "color": "#7F848E",
